@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">¡Contador-registrador!</string>
+    <string name="button_text">¡Haz click en mi!</string>
+    <string name="reset_button">Reiniciar</string>
+</resources>
